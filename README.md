@@ -2,6 +2,8 @@
 
 Follow these instructions to install BINARY, PySODB, and SOView in your Conda environment.
 
+For more information on how to use BINARY, please visit the [official documentation](https://binary-tutorials.readthedocs.io/en/latest/index.html).
+
 ## 1. Extract BINARY installation package:
 
 ```bash
